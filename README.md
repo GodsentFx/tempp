@@ -9,10 +9,17 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Welcome to GodsentFx To-do list on GitHub.</h1>
+  <h1>Welcome to GodsentFx Projects demo list on GitHub.</h1>
   
   <p>
-    This page contains some lists of our websites demo Projects.
+    GodsentFxDemos.github.io
+
+Welcome to our demo ground. Here, you will find most source codes to our projects including live static demo's.
+
+By using any of our codes of either a single line or more, you automatically agree to follow the Apache 2.0 license rules and also GofsentFx source codes license which give free access but requirements you not to hide, or remove any form of backlinks or our name from the codes for some time, basically a year. You must give attributes while we continue what we are best for.
+
+All codes here are provided free of cost. We hope they also help you.
+<br>Original url: https://github.com/GodsentFx/GodsentFxDemos.github.io
   </p>
   
   
@@ -39,11 +46,11 @@ Maybe you can mention me or this repo in the acknowledgements too
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://godsentfx.com.ng/">Our Website</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/GodsentFx/tempp/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/GodsentFx/tempp/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -190,13 +197,9 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 <!-- The List -->
 ## :eyes: List
 
-
-```diff
-- Lists of Projects
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+#List of projects:
+> Here you go...
+<br><br>
 
 <strong>
 <ol>
@@ -226,8 +229,6 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 
 </ol>
 </strong>
-
-```
 
 ```The kiss part
 import From *Girls 'A-Perfect-Random-One'
@@ -260,7 +261,7 @@ Seems funny but, I will possibly do it. Hahaha...
 <p>...</p>
 * [ ] <b>.....</b>
 * [ ] <b>Win 3 award's online</b>
-* [ ] <b>.....</b>
+* [ ] <b>...</b>
 * [ ] <b>Release Sitepack first vero</b>
 * [ ] <b>Publish 4 new stories</b>
 * [ ] <b>Get 7 partners</b>
