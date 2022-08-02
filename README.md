@@ -1,60 +1,72 @@
 <!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
+Hey, thanks for using our readme. We will be very happy if you give us attributes. Sending love from Africa!
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Welcome to GodsentFx Projects demo list on GitHub.</h1>
+<img src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/logo.png" alt="godsent" width="300" height="auto" />
+
+  <h1>Welcome to our Projects demo list on GitHub.</h1>
+
+<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+
+<br />
+<br />
+<a href="https://www.linkedin.com/in/callme-godsent-291127244" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AkpoviGreat" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+<br />
+<br />
   
   <p>
     GodsentFxDemos.github.io
 
 Welcome to our demo ground. Here, you will find most source codes to our projects including live static demo's.
 
-By using any of our codes of either a single line or more, you automatically agree to follow the Apache 2.0 license rules and also GofsentFx source codes license which give free access but requirements you not to hide, or remove any form of backlinks or our name from the codes for some time, basically a year. You must give attributes while we continue what we are best for.
+By using any of our codes of either a single line or more, you automatically agree to follow the Apache 2.0 license rules and also GodsentFx source codes license which give free access but requirements you not to hide, or remove any form of backlinks or our name from the codes for some time, basically a year. You must give attributes while we continue what we are best for.
 
 All codes here are provided free of cost. We hope they also help you.
-<br>Original url: https://github.com/GodsentFx/GodsentFxDemos.github.io
+
+If this page is not working well, kindly use the original Link.
+<br>Original url:
+[https://github.com/GodsentFx/GodsentFxDemos.github.io](https://github.com/GodsentFx/GodsentFxDemos.github.io)
   </p>
   
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/GodsentFx/GodsentFxDemos.github.io" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/GodsentFx/GodsentFxDemos.github.io" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/network/members">
+    <img src="https://img.shields.io/github/forks/GodsentFx/GodsentFxDemos.github.io" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/GodsentFx/GodsentFxDemos.github.io" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/issues/">
+    <img src="https://img.shields.io/github/issues/GodsentFx/GodsentFxDemos.github.io" alt="open issues" />
   </a>
 </p>
    
 <h4>
     <a href="https://godsentfx.com.ng/">Our Website</a>
   <span> · </span>
-    <a href="https://github.com/GodsentFx/tempp/issues/">Report Bug</a>
+    <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/GodsentFx/tempp/issues/">Request Feature</a>
+    <a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/issues/">Request Feature</a>
   </h4>
 </div>
 
 <br />
+
+ <img src="https://raw.githubusercontent.com/GodsentFx/GodsentFx/main/assets/canimation.gif" alt="godsent" width="300" height="auto" />
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
@@ -87,10 +99,12 @@ All codes here are provided free of cost. We hope they also help you.
 <!-- Screenshots -->
 ### :camera: Snaps
 
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
+This (gif) sometimes requires additional time to load).
 
+<div align="center"> 
+  <img src="https://lh3.googleusercontent.com/a4lazZVMo_AKe43dhjwGSqb3YcrIzNYc9okoFRzuVuFJd_UmhkHBHY4f-lU32LmBLnj7G_1db6nA0l3Nz783-B4Q-i0O0d_92IqXer7IaDGaDMvQhdnPYp3iqeALwKK5HFR8R1KWtbdsfX8drHFYIcN3v2t3OsXRthWiTyS4o2lJKeccE_0CemC0RCC30RRSsp8NyqefJaJREfwAyEHlATfJhxdZUKGHicA_ndCQ8BqLs6Erd-6bJX2RCOxIJ3q4LCHx5lMZRWouZuAFsNIGrUJPyAgRFOGorVSUTt-AKMv9sLLkx1JnFx0FDbCSXY5GA9wsE010GA2c_Hg53f1fC_AuI6hIuE7mZJYFbcTUwJuyq_2Sws7vA3k9zLPWi5dH3RKUjY5FjnU9A5hX9B5AOG3aQ0dxKua34RsdRfmk9IWTykdaf_yh1W_ZsmoY5f9knCs4nPuKnXCWdaS2SEm_7bwxWU_CVokluwF8j2uaclZKbhPkZdYlbnopqn9w4kKKP3TdoPbctiuMSkS1UoWySVxPS-6kwM8nKG6l3idCUAjpUpdOBYF0IbsrTbQSTbagpNUKpqRlUJ_ai-YdOxD2gsHZGWDpIwCZbpTDeQoFQA_yLHKV3pcF1jY6yrJ_jxsgqE_YTNYrLTY_Fbcfl0tg3k6dN40cz6WUDml0AiW3-D5Wxq00IsoKyvGuTlrw5WtLSseDqQwuUoumR4yGfHOBBPvbmP0jOC_Og4CEAUcY90bYuImrfQOujOeNmfM=w480-h270-no?authuser=0" alt="screenshot" />
+</div>
+<br>
 
 <!-- TechStack -->
 ### :dart: stacks
@@ -98,38 +112,50 @@ All codes here are provided free of cost. We hope they also help you.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li>JavaScript</li>
+    <li>React.js</li>
+    <li>TailwindCSS</li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
+    <li>Nest.js</li>
+    <li>SocketIO</li>
+    <li>Prisma</li>    
+    <li>Apollo</li>
+    <li>GraphQL</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.Oursql.com/">OurSQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>OurSQL</li>
+    <li>PostgreSQL</li>
   </ul>
 </details>
 
 <details>
 <summary>DevOps</summary>
   <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
+    <li>Docker</li>
+    <li>Jenkins</li>
   </ul>
 </details>
+
+<details>
+<summary>Others</summary>
+  <ul>
+    <li>Java</li>
+    <li>C++</li>
+    <li>Python</>
+    <li>And many more</li>
+  </ul>
+</details>
+<br>
+
 
 <!-- Sponsored -->
 ### :dart: Sponsored
@@ -181,9 +207,14 @@ You can clone this with your cmd tool also. Simply head over to the location you
 
 For example, this will clone the whole of our demo Projects on GitHub.
 
-```Cmd
-  $ git clone https://github.com/GodsentFx/GodsentFxDemos.github.io.git
 ```
+  git clone https://github.com/GodsentFx/GodsentFxDemos.github.io.git
+```
+<br />
+<br />
+
+<img src="https://media1.giphy.com/media/nNOvniJd8KjNC/giphy.webp?cid=6c09b952ea90fb30f84cec87a3d9de76c65f05b7d3e80294&rid=giphy.webp&ct=g" alt="joke" width="300" height="auto" />
+
 <!-- Running Tests -->
 ### :test_tube: Running Tests
 
@@ -197,13 +228,14 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 <!-- The List -->
 ## :eyes: List
 
-#List of projects:
-> Here you go...
+# List of projects:
+> Only Projects hosted on GitHub are listed here.
+<br> Click on anyone to see it live.
 <br><br>
 
 <strong>
 <ol>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/Corlate/" target="_blank">Corlorate</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE7" target="_blank">Corlorate</a></li>
 <br>
 <li> <a href="https://godsentfx.github.io/GodsentFxDemos.github.io/ethanol/" target="_blank">Ethanol</a></li>
 <br>
@@ -211,84 +243,75 @@ To run tests, we recommend that you use a code editor, open the folder on it, hi
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/Portfolio1/" target="_blank">Portfolio 1</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/about_biz/" target="_blank">About Biz</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/about_biz" target="_blank">About Biz</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/cyber-tech/" target="_blank">Cyber Tech</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/cyber-tech" target="_blank">Cyber Tech</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/d-tv/" target="_blank">D T V</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/d-tv" target="_blank">D T V</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/nolo/" target="_blank">Nolo</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/nolo" target="_blank">Nolo</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/static_gamer/" target"_blank">Static Gaming Site</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE5" target"_blank">Static Gaming Site</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/eventrum/" target="_blank">Eventrum</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/eventrum" target="_blank">Eventrum</a></li>
 <br>
 <li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/charity/" target="_blank">Charity</a></li>
 <br>
-<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/above/" target="_blank">Above</a></li>
+<li><a href="https://godsentfx.github.io/GodsentFxDemos.github.io/live/PAGE8" target="_blank">Above</a></li>
 
 </ol>
 </strong>
 
-```The kiss part
-import From *Girls 'A-Perfect-Random-One'
+```Thank you for checking up.
+import  all from Greetings 'We appreciate!'
 
 ...
 
-Seems funny but, I will possibly do it. Hahaha...
+Words can't describe how grateful we are, having you around.
 ```
 
 <!-- Roadmap -->
 ## :compass: To-do
 
-<p> Finally, the To-Do list is here. Check out our bucket list with a glass of tea in your hand. They are many but, worth it.
+<p> Finally, the list is here. Check out our plans for this project with a glass of tea in your hand. They are many but, worth it.
 
-## :wave: Done
+## :wave: Done/Undone
 
 
-* [x] <b>Get GodsentFx online & Stable</b>
-* [x] <b>Release some static demos to GitHub</b>
-* [x] <b>Get listed</b>
-* [x] <b>....</b>
-<p>...</p>
+* [x] <b>Add styling to the readme</b>
+* [x] <b>Update projects & Urls</b>
+* [x] <b>Get reviews</b>
+* [x] <b>Update Everything</b>
+* [x] <b>Add a snap (video/gif)</b>
 * [ ] <b>Get featured</b>
-* [ ] <b>Release Sitepack 1</b>
-* [ ] <b>Release a game engine for Android Developers</b>
-* [ ] <b>Release a course online</b>
-* [ ] <b>Release two books</b>
-* [ ] <b>Release a game tutorial</b>
-* [ ] <b>Release 5 WordPress plugins</b>
-<p>...</p>
-* [ ] <b>.....</b>
-* [ ] <b>Win 3 award's online</b>
-* [ ] <b>...</b>
-* [ ] <b>Release Sitepack first vero</b>
-* [ ] <b>Publish 4 new stories</b>
-* [ ] <b>Get 7 partners</b>
-* [ ] <b>Study Blender3d source codes</b>
-<p>...</p>
-* [ ] <b>Study some 3d apps source codes</b>
-* [ ] <b>Read 2 big books in a month</b>
-* [ ] <b>Take a glass of bear 🥂</b>
-* [ ] <b>Complete all Our smaller</b> 
+* [ ] <b>Release 5 more dynamic websites demonstrations</b>
+* [ ] <b>Update texts</b>
+* [ ] <b>Get GodsentFx Github 'live' stable</b>
+* [ ] <b>Add some web games</b>
+
+...
 
 <br>
-God Help! 🔥
-<br><br>
+# God Help! 🔥
+<br />
+<br />
 
+<img src="https://media3.giphy.com/media/hv53DaYcXWe3nRbR1A/giphy.webp?cid=6c09b9527e0a713f417053366ead58bdae585fd1611916e6&rid=giphy.webp&ct=g" alt="joke" width="300" height="auto" />
+<br />
 <!-- Contributing -->
+
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/GodsentFx/GodsentFxDemos.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GodsentFx/GodsentFxDemos.github.io" />
 </a>
 
 
-Contributions are not accepted! ✋
+Contributions are accepted! 🥂
 
 If there's anything you insist or want to add, we will gladly be there to review and reply your messages. 
 
-Check out a tutorial on `Contributing to GitHub project` for ways to get started.
+Kindly check out a tutorial on `Contributing to GitHub project` for ways to get started.
 
 
 <!-- Code of Conduct -->
@@ -298,6 +321,7 @@ Check out a tutorial on `Contributing to GitHub project` for ways to get started
 
 ....
 
+
 <!-- FAQ -->
 ## :grey_question: FAQ
 
@@ -305,13 +329,16 @@ Check out a tutorial on `Contributing to GitHub project` for ways to get started
 
   + GodsentFx is a new startup and company who's main target is to get the undying jobs done. We build websites, apps, games and lot more for people who are in or want to start their own business. We also post tutorials on how to get things done better. Kindly check out list of posts at GodsentFx.com.ng/blog/
 
-- Where have you been?
+- How can I test this?
+   + Simple click on any of the above links under list.
 
-  + We have been in somewhere at the middle of nowhere in a place somewhere the street. 🤣
 
-- What is your one advice?
+- How do a create an awesome Readme like this?
 
-  + Do not always believe in 'Never Giving up.' Feel big and get stronger than your problems. Challenge and scare your enemies. Surprise everyone including yourself on a daily basis. There's nothing like hard. It's up to you. It is either a win or fall. But, don't go too hot. Sometimes, letting go of things that are made to stay doesn't means weakness. It means we are strong enough to let go! Always stay safe.
+  + You have to be good eith html. Also, check the GitHub documentation of md.
+
+<div align="center">
+
 
 <!-- License -->
 ## :warning: License
@@ -321,23 +348,27 @@ Distributed under the no License. See LICENSE.txt for more information.
 You are free to customize and make changes to this including adding to your own readme or whatever without permission or copyright as far as it doesn't abuse us in any form.
 
 
+<img src="https://c.tenor.com/CUZ0syQaOykAAAAS/do-you-like-scary-movies-roger-l-jackson.gif" alt="joke" width="300" height="auto" />
+
+Follow us now, if you don't want to get a bit tonight. Joke!
+
 <!-- Contact -->
 ## :handshake: Contact
 
 Godsent
-- [@twitter_handle](https://twitter.com/twitter_handle)
-- akpovigreat@gmail.com
+[@twitter_handle](https://twitter.com/AkpoviGreat)
+akpovigreat@gmail.com
 
-Project Link: [This is the online location of this project ](https://github.com/Louis3797/awesome-readme-template)
-
+Project Link: [This is the online location of this project ](https://github.com/GodsentFx/GodsentFxDemos.github.io/)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-I must not fail to thank this people for all they have done in and or doing in our reign during this times we needed them most. Thank you, friends. Sending Love from Africa. 💙
+We must not fail to thank this people for all they have done in and or doing in ours reign during this times we needed them most. Thank you, friends. Sending Love from Africa. 💙
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+ [Victor Chiaka](https://facebook.com/profile.php?id=100081485396181&v=info)
+ [Stephen Michael](https://facebook.com/axxellance/about)
+ [...]()
+ [...]()
 
+</div>
