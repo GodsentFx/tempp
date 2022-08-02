@@ -293,7 +293,7 @@ Words can't describe how grateful we are, having you around.
 
 <br>
 # God Help! 🔥
-<br />
+
 <br />
 
 <img src="https://media3.giphy.com/media/hv53DaYcXWe3nRbR1A/giphy.webp?cid=6c09b9527e0a713f417053366ead58bdae585fd1611916e6&rid=giphy.webp&ct=g" alt="joke" width="300" height="auto" />
